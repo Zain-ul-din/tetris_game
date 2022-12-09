@@ -3,19 +3,20 @@ Tetris Game
 
 #
 
+![screen_shot](https://user-images.githubusercontent.com/78583049/206762698-93b4da5d-864f-4346-94be-3a36436203b9.png)
 
-> How to run
+## How to run
 
 [sfml setup guide](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
 
-## Windows:- 
+> Windows:- 
 ```
  1. Open Terminal here
  2. Run _ g++ cli.cpp -o setup
  3. ./setup.exe
 ```
 
-## Linux:-
+> Linux:-
 ```
  1. Open Terminal here
  2. g++ -c main.cpp
