@@ -1,7 +1,6 @@
 <h1 align='center'>
 Tetris Game
 
-#
 
 ![screen_shot](https://user-images.githubusercontent.com/78583049/206762698-93b4da5d-864f-4346-94be-3a36436203b9.png)
 
