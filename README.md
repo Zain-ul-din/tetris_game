@@ -8,10 +8,16 @@ Tetris Game
 
 ## How to run
 
+
+
 [sfml setup guide](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
 
 > Windows:- 
 ```
+ run game.exe
+ 
+ # OR
+
  1. Open Terminal here
  2. Run _ g++ cli.cpp -o setup
  3. ./setup.exe
