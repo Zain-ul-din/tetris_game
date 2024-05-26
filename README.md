@@ -4,19 +4,18 @@ This Tetris game is implemented using procedural programming in C++ and utilizes
 
 <h1 align='center'>
 
-
-
-
 ![screen_shot](https://user-images.githubusercontent.com/78583049/206762698-93b4da5d-864f-4346-94be-3a36436203b9.png)
 
 
-## How to run
+
+### How to run
 
 Before running the game, ensure you have the SFML library set up on your system. Follow the SFML setup guide for instructions tailored to your operating system.
 
 [sfml setup guide](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
 
 > Windows:- 
+
 ```
  run game.exe
  
